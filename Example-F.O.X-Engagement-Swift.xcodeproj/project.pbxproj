@@ -18,6 +18,8 @@
 		D96DE50F1CED5410000738D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D96DE50D1CED5410000738D5 /* LaunchScreen.storyboard */; };
 		D96DE51A1CED5410000738D5 /* Example__F_O_X_Engagement_SwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96DE5191CED5410000738D5 /* Example__F_O_X_Engagement_SwiftTests.swift */; };
 		D96DE5251CED5410000738D5 /* Example__F_O_X_Engagement_SwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96DE5241CED5410000738D5 /* Example__F_O_X_Engagement_SwiftUITests.swift */; };
+		D96DE5331CED6575000738D5 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D96DE5321CED6575000738D5 /* AdSupport.framework */; };
+		D96DE5351CED65AA000738D5 /* FoxEngagement.plist in Resources */ = {isa = PBXBuildFile; fileRef = D96DE5341CED65AA000738D5 /* FoxEngagement.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,7 +45,7 @@
 		8BCD037A429FB474C944B480 /* Pods_Example__F_O_X_Engagement_Swift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Example__F_O_X_Engagement_Swift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E419E14FC10FC14B5A9D44C /* Pods-Example--F.O.X-Engagement-SwiftUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Example--F.O.X-Engagement-SwiftUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Example--F.O.X-Engagement-SwiftUITests/Pods-Example--F.O.X-Engagement-SwiftUITests.release.xcconfig"; sourceTree = "<group>"; };
 		D6637F6F4B0F99F3A7A53FC1 /* Pods_Example__F_O_X_Engagement_SwiftTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Example__F_O_X_Engagement_SwiftTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		D96DE4FE1CED5410000738D5 /* Example--F.O.X-Engagement-Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Example--F.O.X-Engagement-Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D96DE4FE1CED5410000738D5 /* Example-F.O.X-Engagement-Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Example-F.O.X-Engagement-Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D96DE5011CED5410000738D5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D96DE5031CED5410000738D5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D96DE5061CED5410000738D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -51,12 +53,15 @@
 		D96DE50B1CED5410000738D5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D96DE50E1CED5410000738D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D96DE5101CED5410000738D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D96DE5151CED5410000738D5 /* Example--F.O.X-Engagement-SwiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Example--F.O.X-Engagement-SwiftTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D96DE5151CED5410000738D5 /* Example-F.O.X-Engagement-Swift.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Example-F.O.X-Engagement-Swift.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D96DE5191CED5410000738D5 /* Example__F_O_X_Engagement_SwiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example__F_O_X_Engagement_SwiftTests.swift; sourceTree = "<group>"; };
 		D96DE51B1CED5410000738D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D96DE5201CED5410000738D5 /* Example--F.O.X-Engagement-SwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Example--F.O.X-Engagement-SwiftUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D96DE5201CED5410000738D5 /* Example-F.O.X-Engagement-Swift.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Example-F.O.X-Engagement-Swift.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D96DE5241CED5410000738D5 /* Example__F_O_X_Engagement_SwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example__F_O_X_Engagement_SwiftUITests.swift; sourceTree = "<group>"; };
 		D96DE5261CED5410000738D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D96DE5321CED6575000738D5 /* AdSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AdSupport.framework; path = System/Library/Frameworks/AdSupport.framework; sourceTree = SDKROOT; };
+		D96DE5341CED65AA000738D5 /* FoxEngagement.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = FoxEngagement.plist; sourceTree = "<group>"; };
+		D96DE5361CED6807000738D5 /* F.O.X-Engagement-Briding-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "F.O.X-Engagement-Briding-Header.h"; sourceTree = "<group>"; };
 		E5009E66CB15FD7809F1CC0C /* Pods_Example__F_O_X_Engagement_SwiftUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Example__F_O_X_Engagement_SwiftUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E97439EF784A31EC74B73FC3 /* Pods-Example--F.O.X-Engagement-Swift.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Example--F.O.X-Engagement-Swift.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Example--F.O.X-Engagement-Swift/Pods-Example--F.O.X-Engagement-Swift.debug.xcconfig"; sourceTree = "<group>"; };
 		EC9EEA1AACD685FCB4FB69DF /* Pods-Example--F.O.X-Engagement-SwiftTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Example--F.O.X-Engagement-SwiftTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Example--F.O.X-Engagement-SwiftTests/Pods-Example--F.O.X-Engagement-SwiftTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -68,6 +73,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D96DE5331CED6575000738D5 /* AdSupport.framework in Frameworks */,
 				84EB4E34DE01E68189C3A4E1 /* Pods_Example__F_O_X_Engagement_Swift.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -94,6 +100,7 @@
 		0882128C1CB7F8E6FB3BE0B3 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				D96DE5321CED6575000738D5 /* AdSupport.framework */,
 				8BCD037A429FB474C944B480 /* Pods_Example__F_O_X_Engagement_Swift.framework */,
 				D6637F6F4B0F99F3A7A53FC1 /* Pods_Example__F_O_X_Engagement_SwiftTests.framework */,
 				E5009E66CB15FD7809F1CC0C /* Pods_Example__F_O_X_Engagement_SwiftUITests.framework */,
@@ -129,9 +136,9 @@
 		D96DE4FF1CED5410000738D5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D96DE4FE1CED5410000738D5 /* Example--F.O.X-Engagement-Swift.app */,
-				D96DE5151CED5410000738D5 /* Example--F.O.X-Engagement-SwiftTests.xctest */,
-				D96DE5201CED5410000738D5 /* Example--F.O.X-Engagement-SwiftUITests.xctest */,
+				D96DE4FE1CED5410000738D5 /* Example-F.O.X-Engagement-Swift.app */,
+				D96DE5151CED5410000738D5 /* Example-F.O.X-Engagement-Swift.xctest */,
+				D96DE5201CED5410000738D5 /* Example-F.O.X-Engagement-Swift.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -146,6 +153,8 @@
 				D96DE50D1CED5410000738D5 /* LaunchScreen.storyboard */,
 				D96DE5101CED5410000738D5 /* Info.plist */,
 				D96DE5081CED5410000738D5 /* Example__F_O_X_Engagement_Swift.xcdatamodeld */,
+				D96DE5341CED65AA000738D5 /* FoxEngagement.plist */,
+				D96DE5361CED6807000738D5 /* F.O.X-Engagement-Briding-Header.h */,
 			);
 			path = "Example--F.O.X-Engagement-Swift";
 			sourceTree = "<group>";
@@ -171,9 +180,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D96DE4FD1CED5410000738D5 /* Example--F.O.X-Engagement-Swift */ = {
+		D96DE4FD1CED5410000738D5 /* Example-F.O.X-Engagement-Swift */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D96DE5291CED5410000738D5 /* Build configuration list for PBXNativeTarget "Example--F.O.X-Engagement-Swift" */;
+			buildConfigurationList = D96DE5291CED5410000738D5 /* Build configuration list for PBXNativeTarget "Example-F.O.X-Engagement-Swift" */;
 			buildPhases = (
 				94C733AADA0DE782A22D1E25 /* 📦 Check Pods Manifest.lock */,
 				D96DE4FA1CED5410000738D5 /* Sources */,
@@ -186,14 +195,14 @@
 			);
 			dependencies = (
 			);
-			name = "Example--F.O.X-Engagement-Swift";
+			name = "Example-F.O.X-Engagement-Swift";
 			productName = "Example--F.O.X-Engagement-Swift";
-			productReference = D96DE4FE1CED5410000738D5 /* Example--F.O.X-Engagement-Swift.app */;
+			productReference = D96DE4FE1CED5410000738D5 /* Example-F.O.X-Engagement-Swift.app */;
 			productType = "com.apple.product-type.application";
 		};
-		D96DE5141CED5410000738D5 /* Example--F.O.X-Engagement-SwiftTests */ = {
+		D96DE5141CED5410000738D5 /* Example-F.O.X-Engagement-SwiftTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D96DE52C1CED5410000738D5 /* Build configuration list for PBXNativeTarget "Example--F.O.X-Engagement-SwiftTests" */;
+			buildConfigurationList = D96DE52C1CED5410000738D5 /* Build configuration list for PBXNativeTarget "Example-F.O.X-Engagement-SwiftTests" */;
 			buildPhases = (
 				D677939E12C902CABA980689 /* 📦 Check Pods Manifest.lock */,
 				D96DE5111CED5410000738D5 /* Sources */,
@@ -207,14 +216,14 @@
 			dependencies = (
 				D96DE5171CED5410000738D5 /* PBXTargetDependency */,
 			);
-			name = "Example--F.O.X-Engagement-SwiftTests";
+			name = "Example-F.O.X-Engagement-SwiftTests";
 			productName = "Example--F.O.X-Engagement-SwiftTests";
-			productReference = D96DE5151CED5410000738D5 /* Example--F.O.X-Engagement-SwiftTests.xctest */;
+			productReference = D96DE5151CED5410000738D5 /* Example-F.O.X-Engagement-Swift.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		D96DE51F1CED5410000738D5 /* Example--F.O.X-Engagement-SwiftUITests */ = {
+		D96DE51F1CED5410000738D5 /* Example-F.O.X-Engagement-SwiftUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D96DE52F1CED5410000738D5 /* Build configuration list for PBXNativeTarget "Example--F.O.X-Engagement-SwiftUITests" */;
+			buildConfigurationList = D96DE52F1CED5410000738D5 /* Build configuration list for PBXNativeTarget "Example-F.O.X-Engagement-SwiftUITests" */;
 			buildPhases = (
 				7533A9D42F06D4754EFB80AD /* 📦 Check Pods Manifest.lock */,
 				D96DE51C1CED5410000738D5 /* Sources */,
@@ -227,9 +236,9 @@
 			dependencies = (
 				D96DE5221CED5410000738D5 /* PBXTargetDependency */,
 			);
-			name = "Example--F.O.X-Engagement-SwiftUITests";
+			name = "Example-F.O.X-Engagement-SwiftUITests";
 			productName = "Example--F.O.X-Engagement-SwiftUITests";
-			productReference = D96DE5201CED5410000738D5 /* Example--F.O.X-Engagement-SwiftUITests.xctest */;
+			productReference = D96DE5201CED5410000738D5 /* Example-F.O.X-Engagement-Swift.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -255,7 +264,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D96DE4F91CED5410000738D5 /* Build configuration list for PBXProject "Example--F.O.X-Engagement-Swift" */;
+			buildConfigurationList = D96DE4F91CED5410000738D5 /* Build configuration list for PBXProject "Example-F.O.X-Engagement-Swift" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -268,9 +277,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D96DE4FD1CED5410000738D5 /* Example--F.O.X-Engagement-Swift */,
-				D96DE5141CED5410000738D5 /* Example--F.O.X-Engagement-SwiftTests */,
-				D96DE51F1CED5410000738D5 /* Example--F.O.X-Engagement-SwiftUITests */,
+				D96DE4FD1CED5410000738D5 /* Example-F.O.X-Engagement-Swift */,
+				D96DE5141CED5410000738D5 /* Example-F.O.X-Engagement-SwiftTests */,
+				D96DE51F1CED5410000738D5 /* Example-F.O.X-Engagement-SwiftUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -281,6 +290,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D96DE50F1CED5410000738D5 /* LaunchScreen.storyboard in Resources */,
+				D96DE5351CED65AA000738D5 /* FoxEngagement.plist in Resources */,
 				D96DE50C1CED5410000738D5 /* Assets.xcassets in Resources */,
 				D96DE5071CED5410000738D5 /* Main.storyboard in Resources */,
 			);
@@ -457,12 +467,12 @@
 /* Begin PBXTargetDependency section */
 		D96DE5171CED5410000738D5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D96DE4FD1CED5410000738D5 /* Example--F.O.X-Engagement-Swift */;
+			target = D96DE4FD1CED5410000738D5 /* Example-F.O.X-Engagement-Swift */;
 			targetProxy = D96DE5161CED5410000738D5 /* PBXContainerItemProxy */;
 		};
 		D96DE5221CED5410000738D5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D96DE4FD1CED5410000738D5 /* Example--F.O.X-Engagement-Swift */;
+			target = D96DE4FD1CED5410000738D5 /* Example-F.O.X-Engagement-Swift */;
 			targetProxy = D96DE5211CED5410000738D5 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -578,7 +588,8 @@
 				INFOPLIST_FILE = "Example--F.O.X-Engagement-Swift/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "cyber-z.Example--F-O-X-Engagement-Swift";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Example-F.O.X-Engagement-Swift";
+				SWIFT_OBJC_BRIDGING_HEADER = "$(SRCROOT)/$(PROJECT)/F.O.X-Engagement-Briding-Header.h";
 			};
 			name = Debug;
 		};
@@ -590,7 +601,8 @@
 				INFOPLIST_FILE = "Example--F.O.X-Engagement-Swift/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "cyber-z.Example--F-O-X-Engagement-Swift";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Example-F.O.X-Engagement-Swift";
+				SWIFT_OBJC_BRIDGING_HEADER = "$(SRCROOT)/$(PROJECT)/F.O.X-Engagement-Briding-Header.h";
 			};
 			name = Release;
 		};
@@ -602,8 +614,8 @@
 				INFOPLIST_FILE = "Example--F.O.X-Engagement-SwiftTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "cyber-z.Example--F-O-X-Engagement-SwiftTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Example--F.O.X-Engagement-Swift.app/Example--F.O.X-Engagement-Swift";
+				PRODUCT_NAME = "Example-F.O.X-Engagement-Swift";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Example-F.O.X-Engagement-Swift.app/Example-F.O.X-Engagement-Swift";
 			};
 			name = Debug;
 		};
@@ -615,8 +627,8 @@
 				INFOPLIST_FILE = "Example--F.O.X-Engagement-SwiftTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "cyber-z.Example--F-O-X-Engagement-SwiftTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Example--F.O.X-Engagement-Swift.app/Example--F.O.X-Engagement-Swift";
+				PRODUCT_NAME = "Example-F.O.X-Engagement-Swift";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Example-F.O.X-Engagement-Swift.app/Example-F.O.X-Engagement-Swift";
 			};
 			name = Release;
 		};
@@ -627,7 +639,7 @@
 				INFOPLIST_FILE = "Example--F.O.X-Engagement-SwiftUITests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "cyber-z.Example--F-O-X-Engagement-SwiftUITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Example-F.O.X-Engagement-Swift";
 				TEST_TARGET_NAME = "Example--F.O.X-Engagement-Swift";
 				USES_XCTRUNNER = YES;
 			};
@@ -640,7 +652,7 @@
 				INFOPLIST_FILE = "Example--F.O.X-Engagement-SwiftUITests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "cyber-z.Example--F-O-X-Engagement-SwiftUITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Example-F.O.X-Engagement-Swift";
 				TEST_TARGET_NAME = "Example--F.O.X-Engagement-Swift";
 				USES_XCTRUNNER = YES;
 			};
@@ -649,7 +661,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D96DE4F91CED5410000738D5 /* Build configuration list for PBXProject "Example--F.O.X-Engagement-Swift" */ = {
+		D96DE4F91CED5410000738D5 /* Build configuration list for PBXProject "Example-F.O.X-Engagement-Swift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D96DE5271CED5410000738D5 /* Debug */,
@@ -658,7 +670,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D96DE5291CED5410000738D5 /* Build configuration list for PBXNativeTarget "Example--F.O.X-Engagement-Swift" */ = {
+		D96DE5291CED5410000738D5 /* Build configuration list for PBXNativeTarget "Example-F.O.X-Engagement-Swift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D96DE52A1CED5410000738D5 /* Debug */,
@@ -667,7 +679,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D96DE52C1CED5410000738D5 /* Build configuration list for PBXNativeTarget "Example--F.O.X-Engagement-SwiftTests" */ = {
+		D96DE52C1CED5410000738D5 /* Build configuration list for PBXNativeTarget "Example-F.O.X-Engagement-SwiftTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D96DE52D1CED5410000738D5 /* Debug */,
@@ -676,7 +688,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D96DE52F1CED5410000738D5 /* Build configuration list for PBXNativeTarget "Example--F.O.X-Engagement-SwiftUITests" */ = {
+		D96DE52F1CED5410000738D5 /* Build configuration list for PBXNativeTarget "Example-F.O.X-Engagement-SwiftUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D96DE5301CED5410000738D5 /* Debug */,

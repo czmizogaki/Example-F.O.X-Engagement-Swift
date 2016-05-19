@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D96DE4FD1CED5410000738D5"
-               BuildableName = "Example--F.O.X-Engagement-Swift.app"
-               BlueprintName = "Example--F.O.X-Engagement-Swift"
-               ReferencedContainer = "container:Example--F.O.X-Engagement-Swift.xcodeproj">
+               BuildableName = "Example-F.O.X-Engagement-Swift.app"
+               BlueprintName = "Example-F.O.X-Engagement-Swift"
+               ReferencedContainer = "container:Example-F.O.X-Engagement-Swift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D96DE5141CED5410000738D5"
-               BuildableName = "Example--F.O.X-Engagement-SwiftTests.xctest"
-               BlueprintName = "Example--F.O.X-Engagement-SwiftTests"
-               ReferencedContainer = "container:Example--F.O.X-Engagement-Swift.xcodeproj">
+               BuildableName = "Example-F.O.X-Engagement-Swift.xctest"
+               BlueprintName = "Example-F.O.X-Engagement-SwiftTests"
+               ReferencedContainer = "container:Example-F.O.X-Engagement-Swift.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D96DE51F1CED5410000738D5"
-               BuildableName = "Example--F.O.X-Engagement-SwiftUITests.xctest"
-               BlueprintName = "Example--F.O.X-Engagement-SwiftUITests"
-               ReferencedContainer = "container:Example--F.O.X-Engagement-Swift.xcodeproj">
+               BuildableName = "Example-F.O.X-Engagement-Swift.xctest"
+               BlueprintName = "Example-F.O.X-Engagement-SwiftUITests"
+               ReferencedContainer = "container:Example-F.O.X-Engagement-Swift.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D96DE4FD1CED5410000738D5"
-            BuildableName = "Example--F.O.X-Engagement-Swift.app"
-            BlueprintName = "Example--F.O.X-Engagement-Swift"
-            ReferencedContainer = "container:Example--F.O.X-Engagement-Swift.xcodeproj">
+            BuildableName = "Example-F.O.X-Engagement-Swift.app"
+            BlueprintName = "Example-F.O.X-Engagement-Swift"
+            ReferencedContainer = "container:Example-F.O.X-Engagement-Swift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D96DE4FD1CED5410000738D5"
-            BuildableName = "Example--F.O.X-Engagement-Swift.app"
-            BlueprintName = "Example--F.O.X-Engagement-Swift"
-            ReferencedContainer = "container:Example--F.O.X-Engagement-Swift.xcodeproj">
+            BuildableName = "Example-F.O.X-Engagement-Swift.app"
+            BlueprintName = "Example-F.O.X-Engagement-Swift"
+            ReferencedContainer = "container:Example-F.O.X-Engagement-Swift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D96DE4FD1CED5410000738D5"
-            BuildableName = "Example--F.O.X-Engagement-Swift.app"
-            BlueprintName = "Example--F.O.X-Engagement-Swift"
-            ReferencedContainer = "container:Example--F.O.X-Engagement-Swift.xcodeproj">
+            BuildableName = "Example-F.O.X-Engagement-Swift.app"
+            BlueprintName = "Example-F.O.X-Engagement-Swift"
+            ReferencedContainer = "container:Example-F.O.X-Engagement-Swift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

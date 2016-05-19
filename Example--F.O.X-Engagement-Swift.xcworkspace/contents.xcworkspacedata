@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Example--F.O.X-Engagement-Swift.xcodeproj">
+      location = "group:/Users/b07785/Example-F.O.X-Engagement-Swift/Example-F.O.X-Engagement-Swift.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
