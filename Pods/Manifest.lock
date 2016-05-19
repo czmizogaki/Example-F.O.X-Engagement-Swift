@@ -1,0 +1,16 @@
+PODS:
+  - foxEngagement (1.0.0)
+
+DEPENDENCIES:
+  - foxEngagement (from `https://github.com/cyber-z/public-foxEngagement-ios-sdk/raw/1.0.0/cocoapods/foxEngagement.podspec`)
+
+EXTERNAL SOURCES:
+  foxEngagement:
+    :podspec: https://github.com/cyber-z/public-foxEngagement-ios-sdk/raw/1.0.0/cocoapods/foxEngagement.podspec
+
+SPEC CHECKSUMS:
+  foxEngagement: 58368e236e1724943b28dc34d7b661b0f5e3a997
+
+PODFILE CHECKSUM: 90f8e4c6cc205a7000999e3350db5327db77e23b
+
+COCOAPODS: 1.0.0

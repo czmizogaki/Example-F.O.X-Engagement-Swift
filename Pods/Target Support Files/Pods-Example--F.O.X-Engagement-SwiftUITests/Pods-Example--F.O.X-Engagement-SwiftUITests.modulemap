@@ -1,0 +1,6 @@
+framework module Pods_Example__F_O_X_Engagement_SwiftUITests {
+  umbrella header "Pods-Example--F.O.X-Engagement-SwiftUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
